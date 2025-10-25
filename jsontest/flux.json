@@ -1,0 +1,9 @@
+{
+    "task_id": "0ace46bc-6789-4e70-95b9-9502b5a4d1dc",
+    "model": "rayonlabs/FLUX.1-dev",
+    "dataset_zip": "https://gradients.s3.eu-north-1.amazonaws.com/e0cb84fde1827345_test_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVVZOOA7SA4UOFLPI%2F20251018%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20251018T045504Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=305151892e644a4114ef9c66729fcd032e86af2a23bd92f688345cf2896a7ebe",
+    "model_type": "flux",
+    "expected_repo_name": "0ace46bc-6789-4e70-95b9-9502b5a4d1dc",
+    "hours_to_complete": 1,
+    "gpu_ids": [0]
+  }

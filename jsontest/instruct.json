@@ -1,0 +1,15 @@
+{
+    "task_id": "0ace46bc-1234-4e70-95b9-9502b5a4d1dc",
+    "model": "unsloth/SmolLM2-1.7B",
+    "dataset": "https://gradients.s3.eu-north-1.amazonaws.com/18c63d6ca57b7239_test_data.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVVZOOA7SA4UOFLPI%2F20251016%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20251016T100013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=940ca5c80bc9ca449bd36b985f2d4cff249fc42328a7c79f2167a2255e5742e1",
+    "dataset_type": {
+      "field_instruction": "instruction",
+      "field_input": "input", 
+      "field_output": "output"
+    },
+    "task_type": "InstructTextTask",
+    "file_format": "s3",
+    "expected_repo_name": "0ace46bc-1234-4e70-95b9-9502b5a4d1dc",
+    "hours_to_complete": 1,
+    "gpu_ids": [0]
+}
