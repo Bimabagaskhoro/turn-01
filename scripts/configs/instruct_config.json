@@ -2,6 +2,6 @@
     "reg-ratio" : 1.010356,
     "lr-amplify-rate" : 1.001,
     "find-lr" : "True",
-    "min_lr" : 1000,
-    "max_lr" : 1000
+    "min_lr" : 0.978,
+    "max_lr" : 1.05
 }
