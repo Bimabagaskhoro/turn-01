@@ -430,7 +430,7 @@ def find_lr_and_continue(
 
     # Add a small bias toward higher learning rates to counter conservatism
     # This makes it slightly less conservative by default
-    final_lr *= 0.98
+    final_lr *= 1.00001
     logger.info(f"Applied general 2% reduction to counteract aggressive tendencies: {final_lr:.2e}")
 
     # Clean up memory
